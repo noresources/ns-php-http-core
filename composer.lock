@@ -4,20 +4,20 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "ed23670877ba2a4ebadb454af1a6dc1b",
+    "content-hash": "e043bb1ac2e530e49111c64adf8743bd",
     "packages": [
         {
             "name": "noresources/ns-php-core",
-            "version": "v2.3.0",
+            "version": "dev-devel",
             "source": {
                 "type": "git",
                 "url": "https://github.com/noresources/ns-php-core.git",
-                "reference": "b484be683e33971cedeb5ccd5e0aed6c8bd2612c"
+                "reference": "183aef7fc8e48d0714732b44a90918a4634620eb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/noresources/ns-php-core/zipball/b484be683e33971cedeb5ccd5e0aed6c8bd2612c",
-                "reference": "b484be683e33971cedeb5ccd5e0aed6c8bd2612c",
+                "url": "https://api.github.com/repos/noresources/ns-php-core/zipball/183aef7fc8e48d0714732b44a90918a4634620eb",
+                "reference": "183aef7fc8e48d0714732b44a90918a4634620eb",
                 "shasum": ""
             },
             "require": {
@@ -40,7 +40,8 @@
                     "dev-2.0.x": "2.0.x-dev",
                     "dev-2.1.x": "2.1.x-dev",
                     "dev-2.2.x": "2.2.x-dev",
-                    "dev-master": "2.3.x-dev"
+                    "dev-master": "2.3.x-dev",
+                    "dev-devel": "2.4.x-dev"
                 }
             },
             "autoload": {
@@ -66,9 +67,9 @@
             ],
             "support": {
                 "issues": "https://github.com/noresources/ns-php-core/issues",
-                "source": "https://github.com/noresources/ns-php-core/tree/v2.3.0"
+                "source": "https://github.com/noresources/ns-php-core/tree/devel"
             },
-            "time": "2021-06-30T18:16:46+00:00"
+            "time": "2021-07-06T18:03:04+00:00"
         },
         {
             "name": "psr/container",
