@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "e043bb1ac2e530e49111c64adf8743bd",
+    "content-hash": "d2736f496b51cabcbc42325cb6a015d9",
     "packages": [
         {
             "name": "noresources/ns-php-core",
